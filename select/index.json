@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "思い出になってよ",
+  "base_artist": "UNFAIR RULE",
+  "createdAt": "2026-02-23T16:16:52.350029Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "思い出になってよ (feat. 橘高 連太郎)",
+      "artist": "UNFAIR RULE",
+      "has_synced": false,
+      "path": "select/pl_01_思い出になってよ_(feat._橘高_連太郎)_UNFAIR_RULE.txt"
+    }
+  ]
+}
